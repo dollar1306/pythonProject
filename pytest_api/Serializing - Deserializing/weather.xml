@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <URL>http://api.openweathermap.org/data/2.5/weather</URL>  <!--Values: URL/Server Address -->
+    <API_KEY>ad48510a9aed1ff96b51557d94bc5964</API_KEY>  <!-- API KEY -->
+    <USERNAME>KukuUser</USERNAME>
+    <PASSWORD>12345</PASSWORD>
+    <CITY>Haifa</CITY>
+    <MY_UNITS>metric</MY_UNITS>
+</Environment>

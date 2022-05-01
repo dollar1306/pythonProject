@@ -1,0 +1,4 @@
+http://google.com, 200
+http://imdb.com, 200
+http://imdb.com/123, 404
+http://supplant.me/bot, 400
